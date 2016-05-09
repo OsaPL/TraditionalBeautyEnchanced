@@ -45,6 +45,7 @@ Planned:
 --- shield
 --- elytra wings
 
+- MAYBE? Fix dirt paths?
 - MAYBE? paintings
 - MAYBE? more alternate blocks goodies
 + MAYBE? tweak a little bit some of the effects (endercrystal beam, clouds etc.) Thanks Emperot!
