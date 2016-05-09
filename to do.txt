@@ -17,7 +17,7 @@ up to 0.4
 + much cooler and better fitting shadow  
 + fix horse lag  
 /+ slight tweaks to the falling snow and rain  
-= emerald ore shine   
++ emerald ore shine   
 + tweaked salt type bunny and creeper eyes 
 + better particles  
 /+ slightly more vibrant foliage colors 
@@ -33,7 +33,7 @@ up to 0.4
 + added new status effects 
 + emerald ore animation looks derpy, fix it. ~thanks Emperot for the slight fixes
 + leaves on fast setting fixed
-+/ dirt paths
+/+ dirt paths
 Planned:
 --- complete survival gui (furnance fire, beacon menu etc.)
 -- alternative packs (traditional-blue and enchanced-greenish water, saturated and not foliage/grass, tweaked and not effects, oldschool connected textures and new ones)
@@ -47,6 +47,6 @@ Planned:
 
 - MAYBE? paintings
 - MAYBE? more alternate blocks goodies
-- MAYBE? tweak a little bit some of the effects (endercrystal beam, clouds etc.)
++ MAYBE? tweak a little bit some of the effects (endercrystal beam, clouds etc.) Thanks Emperot!
 -! NOTFIXABLE water bottles
 ...probably even more...
