@@ -1,0 +1,52 @@
+This is a project I started fiddling with like a year ago. I alwyas loved how Traditional beauty looked, and I was using it since 2012. Lately no new updates and overall "bogding" of the textures pack left me dissatisfied, and here it is.
+Firstly I would want to thank anyone who had his input in this texture pack, mainly:
+WomboCombo (BlowJoe), joedeluxe.
+If you had any important input, you have any problems with me publishing updated pack, or anything personal, pm me.
+For any suggestions, problems, bugs or anything other post below.
+I used the original Minecraft Textures and just modified them. All rights go to Mojang.
+Old version:http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244027-64x-1-8-x-traditional-beauty-over-275000
+todo list: +done -open =inprogress !important /+done,but should be optional!
+up to 0.4 
+/+ better glass textures, easier to see through 
++ connected textures support fix
++ fix and change old connected textures for clear glass blocks, panes and bookshelves.  
++ fix broken splash particles  
+/+ better water color (not ugly blueish)  
++ water particles and menu backround fix (for the new water)
++ fixed not intentional large pixels on water texture  
++ much cooler and better fitting shadow  
++ fix horse lag  
+/+ slight tweaks to the falling snow and rain  
+= emerald ore shine   
++ tweaked salt type bunny and creeper eyes 
++ better particles  
+/+ slightly more vibrant foliage colors 
+/+ fix bluish grass and leaves 
+/+ underwater particles/void particles removed ( for coherence with the water color)  
+0.4a one point nine
++ converted to 1.9
++ creative and survival inventory ("gui/container/inventory" still missing few new status icons)
++ removed the "noise" on creative and survival gui
++ thanks for the dirt brightness fix Karimiri_1! http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244027-64x-1-8-x-traditional-beauty-over-275000?comment=194
+0.4b
++ fixed missing field on the hot bar
++ added new status effects 
++ emerald ore animation looks derpy, fix it. ~thanks Emperot for the slight fixes
++ leaves on fast setting fixed
++/ dirt paths
+Planned:
+--- complete survival gui (furnance fire, beacon menu etc.)
+-- alternative packs (traditional-blue and enchanced-greenish water, saturated and not foliage/grass, tweaked and not effects, oldschool connected textures and new ones)
+--- horse markings
+- add sandstone and red sandstone connected textures
+- custom panorama http://www.planetminecraft.com/blog/resource-pack-panoramas-guide-and-tips/
+--- overcharged creeper (creeper_armor) 
+--- potion arrows
+--- shield
+--- elytra wings
+
+- MAYBE? paintings
+- MAYBE? more alternate blocks goodies
+- MAYBE? tweak a little bit some of the effects (endercrystal beam, clouds etc.)
+-! NOTFIXABLE water bottles
+...probably even more...
