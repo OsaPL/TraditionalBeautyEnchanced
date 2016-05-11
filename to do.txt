@@ -34,6 +34,7 @@ up to 0.4
 + emerald ore animation looks derpy, fix it. ~thanks Emperot for the slight fixes
 + leaves on fast setting fixed
 /+ dirt paths
++ fixed inverted daylight sensor texture
 Planned:
 --- complete survival gui (furnance fire, beacon menu etc.)
 -- alternative packs (traditional-blue and enchanced-greenish water, saturated and not foliage/grass, tweaked and not effects, oldschool connected textures and new ones)
