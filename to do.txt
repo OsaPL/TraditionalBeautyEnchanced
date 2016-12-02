@@ -31,25 +31,31 @@ up to 0.4
 0.4b
 + fixed missing field on the hot bar
 + added new status effects 
-+ emerald ore animation looks derpy, fix it. ~thanks Emperot for the slight fixes
++ emerald ore animation slightly changed. ~thanks Emperot for the slight fixes
 + leaves on fast setting fixed
 /+ dirt paths
 + fixed inverted daylight sensor texture,
-+ add sandstone ctm
++ add sandstone ctm (slighty wonky, will improve this later)
+0.5 ten outta ten
++ potion and spectral arrows
++ dragons breath and ingering potions (also they are less empty now)
++ beetroot soup and seeds (not the actual beetroot)
++ water overlay now is detailed and textured (for pleaseant underwater windows)
++ tweaked a little bit some of the effects Thanks Emperot!
+
 Planned:
 --- complete survival gui (furnance fire, beacon menu etc.)
 -- alternative packs (traditional-blue and enchanced-greenish water, saturated and not foliage/grass, tweaked and not effects, oldschool connected textures and new ones)
---- horse markings
+--- horse markings (white marks and white dots only ones left)
 - red sandstone connected textures
 - custom panorama http://www.planetminecraft.com/blog/resource-pack-panoramas-guide-and-tips/
 --- overcharged creeper (creeper_armor) 
---- potion arrows
 --- shield
 --- elytra wings
 
-- MAYBE? Fix dirt paths?
+- MAYBE? Chnge dirt paths?
 - MAYBE? paintings
 - MAYBE? more alternate blocks goodies
-+ MAYBE? tweak a little bit some of the effects (endercrystal beam, clouds etc.) Thanks Emperot!
+
 -! NOTFIXABLE water bottles
 ...probably even more...
