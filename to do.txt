@@ -42,6 +42,8 @@ up to 0.4
 + beetroot soup and seeds (not the actual beetroot)
 + water overlay now is detailed and textured (for pleaseant underwater windows)
 + tweaked a little bit some of the effects Thanks Emperot!
+0.6 ten outta ten
++ lots of things, fully compatible with 1.12 now
 
 Planned:
 --- complete survival gui (furnance fire, beacon menu etc.)
