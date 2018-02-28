@@ -52,10 +52,7 @@ Planned:
 - red sandstone connected textures
 - custom panorama http://www.planetminecraft.com/blog/resource-pack-panoramas-guide-and-tips/
 --- overcharged creeper (creeper_armor) 
---- shield
---- elytra wings
 
-- MAYBE? Chnge dirt paths?
 - MAYBE? paintings
 - MAYBE? more alternate blocks goodies
 
