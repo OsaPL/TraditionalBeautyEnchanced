@@ -44,13 +44,26 @@ up to 0.4
 + tweaked a little bit some of the effects Thanks Emperot!
 0.6 ten outta ten
 + lots of things, fully compatible with 1.12 now
+0.7 Im back baby
++ 1.16 name compatibility
++ enchantment glint is more subtle
++ glass blocks ctm is fixed to the new format
++ random mobs is working (again)
++ banners being all black fixed
+
+Important!:
+a)Things to fix regarding 1.12 to 1.16 migration
+! fix horse textures (new model)
+! fix all connected textures
+! fix particles
+! fix sign textures
 
 Planned:
 --- complete survival gui (furnance fire, beacon menu etc.)
 -- alternative packs (traditional-blue and enchanced-greenish water, saturated and not foliage/grass, tweaked and not effects, oldschool connected textures and new ones)
 --- horse markings (white marks and white dots only ones left)
 - red sandstone connected textures
-- custom panorama http://www.planetminecraft.com/blog/resource-pack-panoramas-guide-and-tips/
+- better custom panorama http://www.planetminecraft.com/blog/resource-pack-panoramas-guide-and-tips/
 --- overcharged creeper (creeper_armor) 
 
 - MAYBE? paintings
